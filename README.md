@@ -25,8 +25,6 @@ Chào Bạn Đã Đến Với Github Của Mình
 
 🌐 Facebook: https://www.facebook.com/profile.php?id=100077529039506
 
-![image](https://user-images.githubusercontent.com/100332598/161076671-b7c4f29c-8c07-43b3-b053-30bc2dc01f19.png)
-
 ⛱ TikTok: https://www.tiktok.com/@hnhattan3011
 
 ⛲ Instagram: https://www.instagram.com/hnhattan3011
