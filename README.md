@@ -94,6 +94,11 @@
 - Nếu bạn không thích thì có thể nhấn **RUN** cho nó chạy là xong (nếu đang chạy lỗi fca thì nhấn **STOP** và nhập "npm i fca-horizon-remake@latest" sau đó **RUN**)
 
 **Vậy là xong rồi đó:> Tận hưởng và chờ bay acc nha .-.**
+
+Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.
+
+Link nè: https://www.facebook.com/profile.php?id=100077529039506
+
 <hr>
 
 <h3 align="center">Cảm Ơn Bạn Đã Ghé Thăm Github Của Tôi ♥️🍀</h3>
