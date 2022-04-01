@@ -64,7 +64,7 @@
 
 - Lùi lại phần ...:\Mirai-V2 (Ví dụ C:\Tải xuống\Mirai-V2)
 + chọn vào hình tệp <img height="20" src="https://user-images.githubusercontent.com/100332598/161209779-cd2b433d-681e-49d6-98d4-34e68e800367.png"> nhập cmd + enter.
-+ Nhập vào cmd: npm i, đợi 1 lúc để tải. ( Nếu quá trình tải lỗi fca thì dùng Ctrl+c nhập "y" rồi nhập npm i fca-horizon-remake@latest)
++ Nhập vào cmd: npm i, đợi 1 lúc để tải. ( Nếu quá trình tải lỗi fca thì dùng Ctrl+c nhập "y" rồi nhập "npm i fca-horizon-remake@latest")
 + Sau khi xong nhập npm start. 
 
 **Ở đây làm gì nữa tận hưởng và chờ bay acc đi:)) Chúc bạn may mắn 🍀**
@@ -73,7 +73,7 @@
 
 <hr>
 
-- **Dùng Replit (Đang Cập Nhật...)**
+- **Dùng Replit**
 + Vẫn là cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính kẻo bay acc:))
 + Vào Trang https://replit.com để tạo 1 tài khoản replit
 + Truy cập: https://replit.com/@nhattan3011/Mirai-V2 -> Chọn Fork repl để lấy file.
