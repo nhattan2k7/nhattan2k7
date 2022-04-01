@@ -42,13 +42,13 @@
 + Truy cập: https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi để tải node.
 + Truy cập: https://www.sublimetext.com/ để tải sublime text ( giúp chỉnh sửa mdl dễ dàng hơn )
 + Truy cập: https://github.com/nhattan2k7/Mirai-V2 để tải file bot.
-+ Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c từ trang anh ạ )
++ Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c-fbstate từ trang anh ạ )
 + Giải nén file.
 
 ==========================
 
 - Vào Chrome:
-+ Tìm chrome://extensions/ 
++ Truy cập: chrome://extensions/ 
 + Bật chế độ nhà phát Triển -> Tải tiện ích đã giải nén -> Chọn file c3c-fbstate vừa tải -> Bật tiện ích và ghim lên
 + Đăng nhập vào tài khoản facebook dùng để chạy bot
 + Chọn vào tiện ích c3c để lấy appstate
