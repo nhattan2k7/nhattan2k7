@@ -45,7 +45,7 @@
 + Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c từ trang anh ạ )
 + Giải nén file.
 
-=======================================
+==========================
 
 - Vào Chrome:
 + Tìm chrome://extensions/ 
@@ -53,14 +53,14 @@
 + Đăng nhập vào tài khoản facebook dùng để chạy bot
 + Chọn vào tiện ích c3c để lấy appstate
 
-=======================================
+==========================
 
 - Vào file bot tải xuống ở trên :
 + Mở file appstate.json xóa nội dung có sẵn và dán appstate của bạn vào.
 + Mở config.json thay tên bot, prefix bot ( mặc định là "." ), id admin và người điều hành bot.
 + Mò và thay id của 1 số mdl :v
 
-=======================================
+==========================
 
 - Lùi lại phần ...:\Mirai-V2 (Ví dụ C:\Tải xuống\Mirai-V2)
 + chọn vào hình tệp <img height="20" src="https://user-images.githubusercontent.com/100332598/161209779-cd2b433d-681e-49d6-98d4-34e68e800367.png"> nhập cmd + enter.
@@ -78,13 +78,13 @@
 + Vào Trang https://replit.com để tạo 1 tài khoản replit
 + Truy cập: https://replit.com/@nhattan3011/Mirai-V2 -> Chọn Fork repl để lấy file.
 
-=======================================
+==========================
 
 + Mở file appstate.json xóa nội dung có sẵn và dán appstate của bạn vào.
 + Mở config.json thay tên bot, prefix bot ( mặc định là "." ), id admin và người điều hành bot.
 + Mò và thay id của 1 số mdl :v
 
-=======================================
+==========================
 
 - Nhập ở console:
 + npm i
