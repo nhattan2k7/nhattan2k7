@@ -39,7 +39,7 @@
 
 - **Dùng Cmd:**
 + Cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính nó bay màu khó mà tìm đường về:))
-+ Truy cập: https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi để tải node.
++ Truy cập: https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi để tải node ( dùng bản v14 vì nó ít lỗi .-. )
 + Truy cập: https://www.sublimetext.com/ để tải sublime text ( giúp chỉnh sửa mdl dễ dàng hơn )
 + Truy cập: https://github.com/nhattan2k7/Mirai-V2 để tải file bot.
 + Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c-fbstate từ trang anh ạ )
@@ -64,8 +64,9 @@
 
 - Lùi lại phần ...:\Mirai-V2 (Ví dụ C:\Tải xuống\Mirai-V2)
 + chọn vào hình tệp <img height="20" src="https://user-images.githubusercontent.com/100332598/161209779-cd2b433d-681e-49d6-98d4-34e68e800367.png"> nhập cmd + enter.
-+ Nhập vào cmd: npm i, đợi 1 lúc để tải. ( Nếu quá trình tải lỗi fca thì dùng Ctrl+c nhập "y" rồi nhập "npm i fca-horizon-remake@latest")
-+ Sau khi xong nhập npm start. 
++ Nhập vào cmd ( nhớ cài node nhá ):
++ npm i, đợi 1 lúc để tải. ( Nếu quá trình tải lỗi fca thì dùng Ctrl+c nhập "y" rồi nhập "npm i fca-horizon-remake@latest")
++ npm start. 
 
 **Ở đây làm gì nữa tận hưởng và chờ bay acc đi:)) Chúc bạn may mắn 🍀**
 
