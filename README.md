@@ -96,6 +96,24 @@
 
 **Vậy là xong rồi đó:> Tận hưởng và chờ bay acc nha .-.**
 
+<hr>
+
+- **Hướng dẫn treo bot 24/24 ( replit )** 
++ Truy cập: https://uptimerobot.com/ 
++ Đăng ký tài khoản.
++ Chọn "**+  Add New Monitor**"
++ Ở **Monitor Type** chọn **Https(s)**
++ Vào lại file bot ở replit bên phải trên phần Console có 1 đường link sao chép link đó dán Url or IP của Uptimerobot
++ **Friendly name** thì đặt gì cũng được
++ **Monitoring Interval** nên kéo tới 24hour
++ **Monitor Timeout** nên để 30s
++ Chọn **Create Monitor** và đợi load.
++ **Vậy là treo bot xong rồi đấy**
+
+- **Lưu ý:** Treo không được 24/24 có thể là do nhiều người dùng, bị spam, bot bị restart,...
+Cái này do bạn thôi chứ mình chịu=))
+
+
 ==========================
 
 Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.
