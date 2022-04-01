@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'am Hồ Nhật Tân!</h1>
 <h3 align="center">Chào Mừng Bạn Đã Đến Với Github Của 1 Thằng Procoder Lỏ 🐧</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="vertical-align:middle;margin:0px 70px">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="vertical-align:middle;margin:0px 50px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhattan2k7&label=Profile%20views&color=0e75b6&style=flat" alt="nhattan2k7" /> </p>
 
 <hr>
