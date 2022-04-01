@@ -6,11 +6,15 @@
 
 <hr>
 
-<h3 align="left"><b>Một Chút Thông Tin Của Tôi:</b></h3>
+<h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
-- 🌁 Học và sinh sống tại: **Ninh Hòa - Khánh Hòa - Việt Nam**
+- 🔭 Tên: **Hồ Nhật Tân** || **30/11/2007**
 
-- 🌱 Trình độ code: **Procoder lỏ🐧**
+- 🌁 Sinh sống tại: **Ninh Hòa - Khánh Hòa**
+
+- ☕ Đang học tại: **THCS Chu Văn An**
+
+- 🌱 Trình độ: **Procoder lỏ🐧**
 
 - 📫 Email: **nhattan.301107@gmail.com**
 
@@ -20,7 +24,7 @@
 
 <hr>
 
-<h3 align="left">Liên Lạc Với Tôi:</h3>
+<h3 align="left">Connect with me:</h3>
 <div align="left">
         
 [![image](https://user-images.githubusercontent.com/100332598/161090489-114fa978-c4bc-4f8d-a135-064c7a6ba681.png)](https://www.instagram.com/hnhattan3011)
