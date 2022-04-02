@@ -121,7 +121,9 @@ https://www.facebook.com/profile.php?id=100077529039506
 
 <hr>
 
-<h3 align="center">Hướng Dẫn Tạo Bot Chat Messenger Bằng Điện Thoại ( Đang cập nhật... )</h3>
+<h3 align="center">Hướng Dẫn Tạo Bot Chat Messenger Bằng Điện Thoại</h3>
+
+- Cách treo 24/24 cũng dùng uptimerobot tương tự như trên.
 
 + Đầu tiên bạn cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính kẻo bay acc:))
 + Truy cập: https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=vi&gl=US hoặc tìm **Kiwi Browser** và tải xuống ( App Store thì không biết có không nữa :v ) 
