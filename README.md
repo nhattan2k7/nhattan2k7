@@ -40,7 +40,7 @@
 
 - **Dùng Cmd:**
 + Cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính nó bay màu khó mà tìm đường về:))
-+ Truy cập: https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi để tải node ( dùng bản v14 vì nó ít lỗi .-. )
++ Truy cập: https://nodejs.org/dist/v14.19.0/node-v14.19.0-x64.msi để tải node ( dùng bản v14 vì nó ít lỗi .-. )
 + Truy cập: https://www.sublimetext.com/ để tải sublime text ( giúp chỉnh sửa mdl dễ dàng hơn )
 + Truy cập: https://github.com/nhattan2k7/Mirai-V2 để tải file bot.
 + Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c-fbstate từ trang anh ạ )
