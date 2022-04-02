@@ -38,7 +38,7 @@
 
 <h3 align="center">Hướng Dẫn Tạo Bot Chat Messenger ( Pc Hoặc Laptop )</h3>
 
-- **Dùng Cmd:**
+- **Dùng Cmd ( Muốn treo 24/24 thì thuê VPS nha ):**
 + Cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính nó bay màu khó mà tìm đường về:))
 + Truy cập: https://nodejs.org/dist/v14.19.0/node-v14.19.0-x64.msi để tải node ( dùng bản v14 vì nó ít lỗi .-. )
 + Truy cập: https://www.sublimetext.com/ để tải sublime text ( giúp chỉnh sửa mdl dễ dàng hơn )
