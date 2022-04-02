@@ -49,14 +49,14 @@
 
 - Vào Chrome:
 + Truy cập: chrome://extensions/ 
-+ Bật chế độ nhà phát Triển -> Tải tiện ích đã giải nén -> Chọn file c3c-fbstate vừa tải -> Bật tiện ích và ghim lên
++ Bật **chế độ nhà phát Triển -> Tải tiện ích đã giải nén -> Chọn file c3c-fbstate vừa tải -> Bật tiện ích và ghim lên**
 + Đăng nhập vào tài khoản facebook dùng để chạy bot
 + Chọn vào tiện ích c3c để lấy appstate
 
 ==========================
 
 - Vào file bot tải xuống ở trên :
-+ Mở file appstate.json xóa nội dung có sẵn và dán appstate của bạn vào.
++ Mở file **appstate.json** xóa nội dung có sẵn và dán appstate của bạn vào.
 + Mở config.json thay tên bot, prefix bot ( mặc định là "." ), id admin và người điều hành bot.
 + Mò và thay id của 1 số mdl :v
 
@@ -81,16 +81,16 @@
 
 ==========================
 
-+ Mở file appstate.json xóa nội dung có sẵn và dán appstate của bạn vào.
-+ Mở config.json thay tên bot, prefix bot ( mặc định là "." ), id admin và người điều hành bot.
++ Mở file **appstate.json** xóa nội dung có sẵn và dán appstate của bạn vào.
++ Mở **config.json** thay tên bot, prefix bot ( mặc định là "." ), id admin và người điều hành bot.
 + Mò và thay id của 1 số mdl :v
 
 ==========================
 
 - Nhập ở console:
-+ npm i
-+ Nếu nó lỗi fca thì dùng Ctrl+C sau đó nhập npm i fca-horizon-remake@latest
-+ npm start
++ **npm i**
++ Nếu nó lỗi fca thì dùng **Ctrl+C** sau đó nhập **npm i fca-horizon-remake@latest**
++ **npm start**
 
 **Vậy là xong rồi đó:> Tận hưởng và chờ bay acc nha .-.**
 
@@ -101,7 +101,7 @@
 + Đăng ký tài khoản.
 + Chọn "**+  Add New Monitor**"
 + Ở **Monitor Type** chọn **Https(s)**
-+ Vào lại file bot ở replit bên phải trên phần Console có 1 đường link sao chép link đó dán Url or IP của Uptimerobot
++ Vào lại file bot ở replit bên phải trên phần Console có 1 đường link sao chép link đó dán vào **URL (or IP)**
 + **Friendly name** thì đặt gì cũng được
 + **Monitoring Interval** nên kéo tới 24hour
 + **Monitor Timeout** nên để 30s
@@ -114,10 +114,24 @@ Cái này do bạn thôi chứ mình chịu=))
 
 ==========================
 
-Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.
+**Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.**
 
-Link nè: https://www.facebook.com/profile.php?id=100077529039506
+https://www.facebook.com/profile.php?id=100077529039506
 
 <hr>
+
+<h3 align="center">Hướng Dẫn Tạo Bot Chat Messenger Bằng Điện Thoại ( Đang cập nhật... )</h3>
+
++ Truy cập: https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=vi&gl=US hoặc tìm **Kiwi Browser** ( App Store thì không biết có không nữa :v ) 
+
+- Vào Kiwi:
+
++ Lấy link **c3c-fbstate** ở trên tải về và giải nén đi :v
++ Tiếp theo tìm chrome://extensions/ hoặc chọn dấu ⋮ ở góc trên bên phải tìm **Tiện ích mở rộng**
++  Bật chế độ nhà phát triển ->  **from.zip/.crx/.user.js** -> Chọn tệp c3c vừa tải ở trên -> Bật nó lên.
++ Chọn ⋮ ở góc trên bên phải lướt xuống chọn **c3c-fbstate**
++ Chọn dòng đỏ **Export fbstate** file fbstate sẽ được tải về máy -> mở nó ra và sao chép hết ( nên dùng ngôn ngữ Anh )
+
+- **Chờ cập nhật thêm...**
 
 <h3 align="center">Cảm Ơn Bạn Đã Ghé Thăm Github Của Tôi ♥️🍀</h3>
