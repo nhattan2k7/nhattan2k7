@@ -92,8 +92,6 @@
 + Nếu nó lỗi fca thì dùng Ctrl+C sau đó nhập npm i fca-horizon-remake@latest
 + npm start
 
-- Nếu bạn không thích thì có thể nhấn **RUN** cho nó chạy là xong (nếu đang chạy lỗi fca thì nhấn **STOP** và nhập "npm i fca-horizon-remake@latest" sau đó **RUN**)
-
 **Vậy là xong rồi đó:> Tận hưởng và chờ bay acc nha .-.**
 
 <hr>
