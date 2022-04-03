@@ -112,18 +112,11 @@
 - **Lưu ý:** Treo không được 24/24 có thể là do nhiều người dùng, bị spam, bot bị restart,...
 Cái này do bạn thôi chứ mình chịu=))
 
-
-==========================
-
-**Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.**
-
-https://www.facebook.com/profile.php?id=100077529039506
-
 <hr>
 
 <h3 align="center">Hướng Dẫn Tạo Bot Chat Messenger Bằng Điện Thoại</h3>
 
-- Cách treo 24/24 cũng dùng uptimerobot tương tự như trên.
+- **Cách treo 24/24 cũng dùng uptimerobot tương tự như trên**
 
 + Đầu tiên bạn cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính kẻo bay acc:))
 + Truy cập: https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=vi&gl=US hoặc tìm **Kiwi Browser** và tải xuống ( App Store thì không biết có không nữa :v ) 
@@ -156,6 +149,12 @@ https://www.facebook.com/profile.php?id=100077529039506
 - Nhấn **RUN**
 
 - **Tạo bot xong ròi đó:3**
+        
+==========================
+
+**Còn thắc mắc liên hệ Nhật Tân nó giúp được gì thì giúp cho.**
+
+https://www.facebook.com/profile.php?id=100077529039506
 
 <hr>
 
