@@ -78,7 +78,7 @@
 - **Dùng Replit**
 + Vẫn là cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính kẻo bay acc:))
 + Vào Trang https://replit.com để tạo 1 tài khoản replit
-+ Truy cập: https://replit.com/@nhattan3011/Mirai-V2 -> Chọn Fork repl để lấy file.
++ Truy cập: https://replit.com/@nhattan3007/Mirai-V2-1 -> Chọn Fork repl để lấy file.
 
 ==========================
 
