@@ -125,7 +125,7 @@ Cái này do bạn thôi chứ mình chịu=))
 
 + Truy cập https://www.facebook.com/ đăng nhập tài khoản facebook bạn dùng để chạy bot.
 + Truy cập: https://replit.com để tạo 1 tài khoản replit.
-+ Truy cập: https://replit.com/@nhattan3011/Mirai-V2 -> Chọn Fork repl để lấy file.
++ Truy cập: https://replit.com/@nhattan3007/Mirai-V2-1 -> Chọn Fork repl để lấy file.
 + Lấy link **c3c-fbstate** ở trên tải về và giải nén đi :v
 + Tiếp theo tìm chrome://extensions/ hoặc chọn dấu ⋮ ở góc trên bên phải tìm **Tiện ích mở rộng**
 + Bật chế độ nhà phát triển ->  **from.zip/.crx/.user.js** -> Chọn tệp c3c vừa tải ở trên -> Bật nó lên.
@@ -159,3 +159,5 @@ https://www.facebook.com/profile.php?id=100077529039506
 <hr>
 
 <h3 align="center">Cảm Ơn Bạn Đã Ghé Thăm Github Của Tôi ♥️🍀</h3>
+        
+<h3 align="center">Hẹn ngày quay lại :v</h3>
