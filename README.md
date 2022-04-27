@@ -32,29 +32,32 @@
 [![image](https://user-images.githubusercontent.com/100332598/161089652-1af8a6b0-dba5-4270-8962-2b178527d6bc.png)](https://www.facebook.com/profile.php?id=100077529039506)
 
 <div>
-
-<hr>
-<br>
-
-<p align='center'>
-<img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
-
 <hr>
 <br>
-<p align="center">Profile Stats</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nhattan2k7&show_icons=true&theme=tokyonight" alt="nhattan2k7 :: Profile Stats" /></p>
+### Github Stats:
 
-<p align="center">Top Langs</p>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhattan2k7&langs_count=10&theme=tokyonight&layout=compact" alt="nhattan2k7 :: Top Langs" /></p>
 <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight&row=2&column=4">
 </p>
         
+<p align='center'>
+<img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
+</p>
+
 ## <p align="center">Lượt ghé thăm Github :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{nhattan2k7}/count.svg" alt="nhattan2k7 :: Lượt ghé thăm Github" /></p>
