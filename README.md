@@ -43,8 +43,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhattan2k7&theme=radical&card_width=450em)]"/></td>
+    <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=nhattan2k7&theme=react&show_icons=true&include_all_commits=true" /></td>
   </tr>
 </table>
 
