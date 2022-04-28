@@ -47,13 +47,19 @@
     <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=nhattan2k7&theme=react&show_icons=true&include_all_commits=true" /></td>
   </tr>
 </table>
+<p align="center">Repository pin 📌</p>
 
+<p align="center">	
+<a href="https://github.com/nhattan2k7/Huongdanchaybot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" />
+</a>
+	
 <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight&row=2&column=4">
 </p>
-        
+
 <p align='center'>
 <img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
 </p>
