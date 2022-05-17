@@ -69,6 +69,4 @@
 <img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
 </p>
 
-## <p align="center">Lượt ghé thăm Github :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{nhattan2k7}/count.svg" alt="nhattan2k7 :: Lượt ghé thăm Github" /></p>
+Cập nhật lần cuối vào 17/5/2022
