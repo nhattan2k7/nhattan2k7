@@ -44,18 +44,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nhattan2k7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt = "Github Streak" >
 
 	
-<p align="center">Repository pin 📌</p>
-
-<p align="center">	
+# 📌 Repository pin
+	
 <a href="https://github.com/nhattan2k7/Huongdanchaybot">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" />
 </a>
 	
-<p align="center">GitHub Profile Trophy 🏆</p>
+# 🏆 GitHub Profile Trophy 
 
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight&row=2&column=4">
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight">
 
 <p align='center'>
 <img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
