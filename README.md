@@ -35,24 +35,35 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-42f5d4?style=for-the-badge&logo=python&logoColor=black">
 </p>
 <hr>
 
-# 📝 Github Stats
+<p align='center'>
+🏆 GitHub Profile Trophy 
+	</p>
+	
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight"></p>
 
+	
+<p align='center'>
+📝 Github Stats
+	</p>
+	
+<p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=nhattan2k7&include_all_commits=true&count_private=true&show_icons=true&custom_title=nhattan2k7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nhattan2k7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt = "Github Streak" >
+	</p>
+	<p align='center'>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nhattan2k7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt = "Github Streak" ></p>
 
-	
-# 📌 Repository pin
-	
+<p align='center'>	
+📌 Repository pin
+	</p>
+<p align='center'>
 <a href="https://github.com/nhattan2k7/Huongdanchaybot">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" /></p>
 </a>
-	
-# 🏆 GitHub Profile Trophy 
-
-<img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight">
 
 <p align='center'>
 <img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
