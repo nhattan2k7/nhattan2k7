@@ -12,13 +12,13 @@ using namespace HNT;
 {
    string main()
    {
-	string Name = "Hồ Nhật Tân";
-        string Age = "2007";
-        string Gender = "Male";
-        string Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
-        string School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
-        string Skills = "Python, JavaScript";
-        string FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
+      string Name = "Hồ Nhật Tân";
+      string Age = "2007";
+      string Gender = "Male";
+      string Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
+      string School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
+      string Skills = "Python, JavaScript";
+      string FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
    }
 }
 ```
