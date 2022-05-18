@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello! I'am Hồ Nhật Tân!</h1>
-<h3 align="center">Chào Mừng Bạn Đã Đến Với Github Của 1 Thằng Procoder Lỏ 🐧</h3>
+<h1 align="center">Hồ Nhật Tân (N-Tân)</h1>
 
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" style="vertical-align:middle;margin:0px 40px">
 
@@ -71,4 +70,5 @@ using namespace HNT;
 <img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
 </p>
 
-Cập nhật lần cuối vào 17/5/2022
+<hr>
+	Update end on 18/05/2022
