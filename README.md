@@ -7,19 +7,25 @@
 
 <h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
-- 🔭 Tên: **Hồ Nhật Tân** || **30/11/2007**
+```C#
+namespace HNT
+{
+   class NTan (HNT)
+   {
+        static void Main(string[] args)
+	{
 
-- 🌁 Sinh sống tại: **Ninh Hòa - Khánh Hòa**
-
-- ☕ Đang học tại: **THCS Chu Văn An**
-
-- 🌱 Trình độ: **Procoder lỏ🐧**
-
-- 📫 Email: **nhattan.301107@gmail.com**
-
-- ⚡ Sở thích: **Sở thích thì có đấy. Nhưng liệt kê thì chịu:))**
-
-- ️🎯 Số điện thoại: **0706231362**
+            var Name = "Hồ Nhật Tân";
+            var Age = "2007";
+            var Gender = "Male";
+            var Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
+            var School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
+            var Skills = "Python, JavaScript";
+            var FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
+         }
+    }
+}
+```
 
 <hr>
 
