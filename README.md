@@ -8,22 +8,18 @@
 <h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
 ```C#
-namespace HNT
+using namespace HNT;
 {
-   class NTan (HNT)
+   string main()
    {
-        static void Main(string[] args)
-	{
-
-            var Name = "Hồ Nhật Tân";
-            var Age = "2007";
-            var Gender = "Male";
-            var Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
-            var School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
-            var Skills = "Python, JavaScript";
-            var FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
-         }
-    }
+	string Name = "Hồ Nhật Tân";
+        string Age = "2007";
+        string Gender = "Male";
+        string Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
+        string School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
+        string Skills = "Python, JavaScript";
+        string FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
+   }
 }
 ```
 
