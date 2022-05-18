@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'am Hồ Nhật Tân!</h1>
 <h3 align="center">Chào Mừng Bạn Đã Đến Với Github Của 1 Thằng Procoder Lỏ 🐧</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" style="vertical-align:middle;margin:0px 50px">
+<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" style="vertical-align:middle;margin:0px 40px">
 
 <hr>
 
