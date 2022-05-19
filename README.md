@@ -1,5 +1,3 @@
-<h1 align="center">Hồ Nhật Tân (N-Tân)</h1>
-
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" style="vertical-align:middle;margin:0px 40px">
 
 <hr>
