@@ -54,6 +54,7 @@
 <p align='center'>
 <a href="https://github.com/nhattan2k7/Huongdanchaybot">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" /></p>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Mirai-V2&theme=tokyonight" alt="nhattan2k7" /></p>
 </a>
 
 <p align='center'>
