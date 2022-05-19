@@ -6,20 +6,14 @@
 
 <h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
-```C#
-using namespace HNT;
-{
-   string main()
-   {
-      string Name = "Hồ Nhật Tân";
-      string Age = "2007";
-      string Gender = "Male";
-      string Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
-      string School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
-      string Skills = "Python, JavaScript";
-      string FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
-   }
-}
+```python
+     Name = "Hồ Nhật Tân";
+     Age = "2007";
+     Gender = "Male";
+     Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
+     School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
+     Skills = "Python, JavaScript";
+     FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
 ```
 
 <hr>
