@@ -3,6 +3,8 @@
 <h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
 ```python
+}
+   }
      Name = "Hồ Nhật Tân";
      Age = "2007";
      Gender = "Male";
@@ -10,6 +12,8 @@
      School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
      Skills = "Python, JavaScript";
      FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
+   }
+}
 ```
 
 <hr>
