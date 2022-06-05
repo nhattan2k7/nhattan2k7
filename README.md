@@ -1,5 +1,3 @@
-<hr>
-
 <h3 align="left"><b>Một Chút Thông Tin Về Tôi:</b></h3>
 
 ```python
