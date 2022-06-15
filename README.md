@@ -7,9 +7,9 @@
      Age = "2007";
      Gender = "Male";
      Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
-     School = "Trường THCS Chu Văn An and THPT Nguyễn Trãi";
+     School = "THPT Nguyễn Trãi";
      Skills = "Python, JavaScript";
-     FamousQuotes = "Thành công không dành cho những kẻ lười biếng!";
+     FamousQuotes = "Chỉ có thành công mới định nghĩa được mày là ai!";
    }
 }
 ```
