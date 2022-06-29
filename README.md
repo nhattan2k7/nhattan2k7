@@ -10,7 +10,6 @@
      School = "THPT Nguyễn Trãi";
      Skills = "Python, JavaScript";
      FamousQuotes = "Chỉ có thành công mới định nghĩa được mày là ai!";
-     Story = "Ngọc Linh ♥️"
    }
 }
 ```
