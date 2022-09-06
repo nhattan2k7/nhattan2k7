@@ -28,8 +28,8 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/C++-33CCFF?style=for-the-badge&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/python-42f5d4?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-42f5d4?style=for-the-badge&logo=python&logoColor=black">
 </p>
 <hr>
 
