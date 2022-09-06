@@ -8,7 +8,7 @@
      Gender = "Male";
      Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
      School = "THPT Nguyễn Trãi";
-     Skills = "Python, JavaScript";
+     Skills = "C++, Python, JavaScript";
      FamousQuotes = "Chỉ có thành công mới định nghĩa được mày là ai!";
    }
 }
